@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "inquirer": "^12.9.4"
+  },
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "Command-line tool that generates an HTML portfolio page from user input",
+  "main": "index.js",
+  "devDependencies": {},
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stephen-exe/portfolio-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stephen-exe/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/Stephen-exe/portfolio-generator#readme"
+}
